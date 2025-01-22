@@ -18,4 +18,4 @@ This portfolio is a representation of my journey as a software developer. It inc
 - **Font Awesome** (for icons, if used)
 - **Google Fonts** (for typography, if applicable)
 
-##
+## Screen Shots
