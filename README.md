@@ -29,7 +29,7 @@ Welcome to the **Reezma Hanan Portfolio** project! This is a personal portfolio 
 You can view the portfolio in your browser by opening [`index.html`](index.html).
 
 ![Portfolio Screenshot](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT/blob/main/Screenshot%202025-01-22%20115022.png)
-
+![Portfolio Screenshot](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT/blob/main/Screenshot%202025-01-22%20131400.png)
 ---
 
 ## Folder Structure
