@@ -25,9 +25,11 @@ Welcome to the **Reezma Hanan Portfolio** project! This is a personal portfolio 
 - **Modern CSS Styling**: Clean layout and visual appeal.
 
 ## Demo
+[Demo](https://reezmahanan.github.io/MY-FIRST-HTML-PROJECT/)
+
 
 You can view the portfolio in your browser by opening [`index.html`](index.html).
-[Demo](https://reezmahanan.github.io/MY-FIRST-HTML-PROJECT/)
+
 ![Portfolio Screenshot](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT/blob/main/Screenshot%202025-01-22%20115022.png)
 ![Portfolio Screenshot](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT/blob/main/Screenshot%202025-01-22%20131400.png)
 ![Portfolio Screenshot](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT/blob/main/Screenshot%202025-01-22%20131422.png)
