@@ -38,7 +38,7 @@ You can view the portfolio in your browser by opening [`index.html`](index.html)
 ## Folder Structure
 
 ```
-MY-FIRST-HTML-PROJECT/
+My-First-HTML-sampleportfolio/
 ├── images/
 │   ├── invitation image.png
 │   ├── portfolio image.png
